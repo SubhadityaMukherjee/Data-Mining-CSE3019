@@ -1,0 +1,11 @@
+TID ,Itemsets
+1,"Pencil, Eracer, clips,A4paper"
+2,"Pencil,Pen,box"
+3,"A4paper,exappad,eracer,glue"
+4,"Stabler,marker,writingpad,clips"
+5,"A4paper,watch,wrapper,paperclip"
+6,"Clips,pen,pencil,A4paper,marker"
+7,"Marker,stabler,watch,A4paper"
+8,"Duster,marker,writingpad,stabler,A4paper"
+9,"Pen,pencil,eracer,A4paper,marker"
+10,"Pen,A4paper,eracer,exampad"
